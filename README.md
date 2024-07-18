@@ -77,3 +77,8 @@ For any inquiries or feedback, please contact:
 - Email: chhaseebamjad0@gmail.com
 - LinkedIn: https://linkedin.com/in/devhaseeb
 - Portfolio: https://github.com/WebDev-Haseeb
+
+![Screenshot 2024-07-18 153313](https://github.com/user-attachments/assets/d822ac0a-8d18-48cf-bac7-aa6be681f73a)
+![Screenshot 2024-07-18 153336](https://github.com/user-attachments/assets/0c9c5f85-f3e7-471a-b2ba-faa6fc8c1a66)
+![Screenshot 2024-07-18 153400](https://github.com/user-attachments/assets/44436e4f-4fb0-4213-855c-16ffbe60e7db)
+
